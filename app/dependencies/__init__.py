@@ -1,0 +1,1 @@
+from .auth_validator import check_auth
